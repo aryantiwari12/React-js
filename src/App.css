@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+img.img1 {
+  margin-top: -82px;
+}
+input.form-control {
+  margin-top: 9px;
+}
+.h5, h5 {
+  font-size: 1.25rem;
+  margin-left: 162px;
+}
+.col-sm-4.text-center.p-2 {
+  margin-top: -24px;
+  margin-left: -20px;
+}
+div#image-upload {
+  height: 105px;
+}
+input.text-center {
+  margin-right: 118px;
+  margin-top: 36px;
+  position: absolute;
+  margin-left: 102px;
+  opacity: 0.5;
+}
